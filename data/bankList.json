@@ -1,0 +1,558 @@
+[
+    {
+        "nama_bank": "BANK MANDIRI",
+        "kode_bank": "bank_mandiri"
+    },
+    {
+        "nama_bank": "BANK CIMB NIAGA/SYARIAH",
+        "kode_bank": "bank_cimbniaga"
+    },
+    {
+        "nama_bank": "BRI",
+        "kode_bank": "bank_bri"
+    },
+    {
+        "nama_bank": "BNI",
+        "kode_bank": "bank_bni"
+    },
+    {
+        "nama_bank": "BANK DANAMON",
+        "kode_bank": "bank_danamon"
+    },
+    {
+        "nama_bank": "BANK PERMATA",
+        "kode_bank": "bank_permata"
+    },
+    {
+        "nama_bank": "BANK MAYBANK INDONESIA",
+        "kode_bank": "bank_maybankindo"
+    },
+    {
+        "nama_bank": "BANK PANIN",
+        "kode_bank": "bank_panin"
+    },
+    {
+        "nama_bank": "BANK UOB INDONESIA",
+        "kode_bank": "bank_uobindo"
+    },
+    {
+        "nama_bank": "BANK OCBC NISP",
+        "kode_bank": "bank_ocbcnisp"
+    },
+    {
+        "nama_bank": "CITIBANK",
+        "kode_bank": "bank_citibank"
+    },
+    {
+        "nama_bank": "BANK HSBC",
+        "kode_bank": "bank_hsbc"
+    },
+    {
+        "nama_bank": "STANDARD CHARTERED BANK",
+        "kode_bank": "bank_standardchartered"
+    },
+    {
+        "nama_bank": "ANZ INDONESIA",
+        "kode_bank": "bank_anzindo"
+    },
+    {
+        "nama_bank": "BANK OF CHINA",
+        "kode_bank": "bank_china"
+    },
+    {
+        "nama_bank": "BANK EKONOMI RAHARJA",
+        "kode_bank": "bank_ekonomiraharja"
+    },
+    {
+        "nama_bank": "RABOBANK",
+        "kode_bank": "bank_haga"
+    },
+    {
+        "nama_bank": "BANK JTRUST INDONESIA",
+        "kode_bank": "bank_jtrustindo"
+    },
+    {
+        "nama_bank": "BANK MAYAPADA INTERNASIONAL",
+        "kode_bank": "bank_mayapadainter"
+    },
+    {
+        "nama_bank": "BANK BJB",
+        "kode_bank": "bank_bjb"
+    },
+    {
+        "nama_bank": "BANK DKI",
+        "kode_bank": "bank_dki"
+    },
+    {
+        "nama_bank": "BPD DIY",
+        "kode_bank": "bank_bpddiy"
+    },
+    {
+        "nama_bank": "BANK JATENG",
+        "kode_bank": "bank_jateng"
+    },
+    {
+        "nama_bank": "BANK JATIM",
+        "kode_bank": "bank_jatim"
+    },
+    {
+        "nama_bank": "BANK JAMBI",
+        "kode_bank": "bank_jambi"
+    },
+    {
+        "nama_bank": "BANK ACEH",
+        "kode_bank": "bank_aceh"
+    },
+    {
+        "nama_bank": "BANK SUMATERA UTARA",
+        "kode_bank": "bank_sumut"
+    },
+    {
+        "nama_bank": "BANK NAGARI",
+        "kode_bank": "bank_nagari"
+    },
+    {
+        "nama_bank": "BANK RIAU KEPRI",
+        "kode_bank": "bank_riau"
+    },
+    {
+        "nama_bank": "BANK SUMSEL BABEL",
+        "kode_bank": "bank_sumsel"
+    },
+    {
+        "nama_bank": "BANK LAMPUNG",
+        "kode_bank": "bank_lampung"
+    },
+    {
+        "nama_bank": "BANK KALSEL",
+        "kode_bank": "bank_kalsel"
+    },
+    {
+        "nama_bank": "BANK KALBAR",
+        "kode_bank": "bank_bpd_kalbar"
+    },
+    {
+        "nama_bank": "BANK KALTIM",
+        "kode_bank": "bank_bpd_kaltim"
+    },
+    {
+        "nama_bank": "BANK KALTENG",
+        "kode_bank": "bank_bpd_kalteng"
+    },
+    {
+        "nama_bank": "BANK SULSELBAR",
+        "kode_bank": "bank_sulselbar"
+    },
+    {
+        "nama_bank": "BANK SULUTGO",
+        "kode_bank": "bank_sulut"
+    },
+    {
+        "nama_bank": "BANK NUSA TENGGARA BARAT",
+        "kode_bank": "bank_ntb"
+    },
+    {
+        "nama_bank": "BANK BALI",
+        "kode_bank": "bank_bpd_bali"
+    },
+    {
+        "nama_bank": "BANK NTT (NUSA TENGGARA TIMUR)",
+        "kode_bank": "bank_ntt"
+    },
+    {
+        "nama_bank": "BANK MALUKU",
+        "kode_bank": "bank_maluku"
+    },
+    {
+        "nama_bank": "BANK PAPUA",
+        "kode_bank": "bank_papua"
+    },
+    {
+        "nama_bank": "BANK BENGKULU",
+        "kode_bank": "bank_bengkulu"
+    },
+    {
+        "nama_bank": "BANK SULTENG",
+        "kode_bank": "bank_bpdsulawesitengah"
+    },
+    {
+        "nama_bank": "BANK SULTRA",
+        "kode_bank": "bank_bpd_sulteng"
+    },
+    {
+        "nama_bank": "BANK NUSANTARA PARAHYANGAN",
+        "kode_bank": "bank_nusantara_parahyanga"
+    },
+    {
+        "nama_bank": "BANK OF INDIA INDONESIA",
+        "kode_bank": "bank_of_india_idn"
+    },
+    {
+        "nama_bank": "BANK MUAMALAT INDONESIA",
+        "kode_bank": "bank_muamalat_idn"
+    },
+    {
+        "nama_bank": "BANK MESTIKA",
+        "kode_bank": "bank_mestika"
+    },
+    {
+        "nama_bank": "BANK SINARMAS",
+        "kode_bank": "bank_sinarmas"
+    },
+    {
+        "nama_bank": "BANK GANESHA",
+        "kode_bank": "bank_ganesha"
+    },
+    {
+        "nama_bank": "BANK ICBC",
+        "kode_bank": "bank_icbc"
+    },
+    {
+        "nama_bank": "BANK QNB INDONESIA",
+        "kode_bank": "bank_qnb_idn"
+    },
+    {
+        "nama_bank": "BANK TABUNGAN NEGARA (BTN)",
+        "kode_bank": "bank_btn"
+    },
+    {
+        "nama_bank": "BANK WOORI SAUDARA",
+        "kode_bank": "bank_woori_saudara"
+    },
+    {
+        "nama_bank": "BTPN",
+        "kode_bank": "bank_btpn"
+    },
+    {
+        "nama_bank": "BANK MEGA",
+        "kode_bank": "bank_mega"
+    },
+    {
+        "nama_bank": "BANK BUKOPIN",
+        "kode_bank": "bank_bukopin"
+    },
+    {
+        "nama_bank": "BANK SYARIAH INDONESIA",
+        "kode_bank": "bank_mandiri_syariah"
+    },
+    {
+        "nama_bank": "BANK KEB HANA",
+        "kode_bank": "bank_keb_hana"
+    },
+    {
+        "nama_bank": "MNC BANK",
+        "kode_bank": "bank_mnc"
+    },
+    {
+        "nama_bank": "BANK YUDHA BAKTI",
+        "kode_bank": "bank_yudha_bakti"
+    },
+    {
+        "nama_bank": "BRI AGRONIAGA",
+        "kode_bank": "bank_agroniaga"
+    },
+    {
+        "nama_bank": "NOBU BANK",
+        "kode_bank": "bank_nationalnobu"
+    },
+    {
+        "nama_bank": "BANK MEGA SYARIAH",
+        "kode_bank": "bank_mega_syariah"
+    },
+    {
+        "nama_bank": "BANK INA PERDANA",
+        "kode_bank": "bank_ina_perdana"
+    },
+    {
+        "nama_bank": "BANK PANIN SYARIAH",
+        "kode_bank": "bank_panin_syariah"
+    },
+    {
+        "nama_bank": "BANK DINAR",
+        "kode_bank": "bank_dinar"
+    },
+    {
+        "nama_bank": "BANK KESEJAHTERAAN EKONOMI",
+        "kode_bank": "bank_kesejahteraan_ekonom"
+    },
+    {
+        "nama_bank": "BANK ARTOS INDONESIA",
+        "kode_bank": "bank_artos_idn"
+    },
+    {
+        "nama_bank": "BANK BTPN SYARIAH",
+        "kode_bank": "bank_btpn_syariah"
+    },
+    {
+        "nama_bank": "BANK MAYORA",
+        "kode_bank": "bank_mayora"
+    },
+    {
+        "nama_bank": "BANK INDEX",
+        "kode_bank": "bank_index"
+    },
+    {
+        "nama_bank": "BANK MANDIRI TASPEN POS",
+        "kode_bank": "bank_mantap"
+    },
+    {
+        "nama_bank": "BANK COMMONWEALTH",
+        "kode_bank": "bank_commonwealth"
+    },
+    {
+        "nama_bank": "BANK FAMA INTERNASIONAL",
+        "kode_bank": "bank_famaintern"
+    },
+    {
+        "nama_bank": "BANK HARDA",
+        "kode_bank": "bank_harda"
+    },
+    {
+        "nama_bank": "BANK FINCONESIA",
+        "kode_bank": "bank_finconesia"
+    },
+    {
+        "nama_bank": "BANK MERINCORP",
+        "kode_bank": "bank_merincorp"
+    },
+    {
+        "nama_bank": "BANK CHINA TRUST INDONESIA",
+        "kode_bank": "bank_chinatrustindonesia"
+    },
+    {
+        "nama_bank": "ALTOPAY",
+        "kode_bank": "bank_altopay"
+    },
+    {
+        "nama_bank": "SGODPAY",
+        "kode_bank": "bank_sgodpay"
+    },
+    {
+        "nama_bank": "BANK METRO EXPRESS",
+        "kode_bank": "bank_metroexpress"
+    },
+    {
+        "nama_bank": "BANK MASPION",
+        "kode_bank": "bank_maspion"
+    },
+    {
+        "nama_bank": "BANK HAGAKITA",
+        "kode_bank": "bank_hagakita"
+    },
+    {
+        "nama_bank": "BANK WINDU KENTJANA",
+        "kode_bank": "bank_windukentjana"
+    },
+    {
+        "nama_bank": "BANK HARMONI INTERNATIONAL",
+        "kode_bank": "bank_harmoniintern"
+    },
+    {
+        "nama_bank": "BANK SWAGUNA",
+        "kode_bank": "bank_swaguna"
+    },
+    {
+        "nama_bank": "BANK BISNIS INTERNASIONAL",
+        "kode_bank": "bank_bisnisintern"
+    },
+    {
+        "nama_bank": "BANK SRI PARTHA",
+        "kode_bank": "bank_sripartha"
+    },
+    {
+        "nama_bank": "BANK JASA JAKARTA",
+        "kode_bank": "bank_jasajakarta"
+    },
+    {
+        "nama_bank": "BANK MITRANIAGA",
+        "kode_bank": "bank_mitraniaga"
+    },
+    {
+        "nama_bank": "BANK INDOMONEX",
+        "kode_bank": "bank_indomonex"
+    },
+    {
+        "nama_bank": "BANK ROYAL INDONESIA",
+        "kode_bank": "bank_royalindonesia"
+    },
+    {
+        "nama_bank": "PRIMA MASTER BANK",
+        "kode_bank": "bank_primamaster"
+    },
+    {
+        "nama_bank": "BANK PERSYARIKATAN INDONESIA",
+        "kode_bank": "bank_persyarikatanindonesia"
+    },
+    {
+        "nama_bank": "BANK AKITA",
+        "kode_bank": "bank_akita"
+    },
+    {
+        "nama_bank": "ANGLOMAS INTERNASIONAL BANK",
+        "kode_bank": "bank_anglomasintern"
+    },
+    {
+        "nama_bank": "BANK DIPO INTERNATIONAL",
+        "kode_bank": "bank_dipointern"
+    },
+    {
+        "nama_bank": "BANK MULTI ARTA SENTOSA",
+        "kode_bank": "bank_multiartasentosa"
+    },
+    {
+        "nama_bank": "BANK VICTORIA INTERNATIONAL",
+        "kode_bank": "bank_victoriaintern"
+    },
+    {
+        "nama_bank": "BANK EKSEKUTIF",
+        "kode_bank": "bank_eksekutif"
+    },
+    {
+        "nama_bank": "CENTRATAMA NASIONAL BANK",
+        "kode_bank": "bank_centratamanasional"
+    },
+    {
+        "nama_bank": "BANK EKSPOR INDONESIA",
+        "kode_bank": "bank_eksporindonesia"
+    },
+    {
+        "nama_bank": "BANK ARTA NIAGA KENCANA",
+        "kode_bank": "bank_artaniagakencana"
+    },
+    {
+        "nama_bank": "AMERICAN EXPRESS BANK LTD",
+        "kode_bank": "bank_americanexpressltd"
+    },
+    {
+        "nama_bank": "JP. MORGAN CHASE BANK N.A.",
+        "kode_bank": "bank_jpmorganchasena"
+    },
+    {
+        "nama_bank": "BANK OF AMERICA N.A",
+        "kode_bank": "bank_ofamericana"
+    },
+    {
+        "nama_bank": "ING INDONESIA BANK",
+        "kode_bank": "bank_ingindonesia"
+    },
+    {
+        "nama_bank": "BANK MULTICOR",
+        "kode_bank": "bank_multicor"
+    },
+    {
+        "nama_bank": "BANK ARTHA GRAHA",
+        "kode_bank": "bank_arthagraha"
+    },
+    {
+        "nama_bank": "BANK CREDIT AGRICOLE INDOSUEZ",
+        "kode_bank": "bank_creditagricoleindosuez"
+    },
+    {
+        "nama_bank": "THE BANGKOK BANK COMP. LTD",
+        "kode_bank": "bank_thebangkokbank"
+    },
+    {
+        "nama_bank": "THE BANK OF TOKYO MITSUBISHI UFJ LTD",
+        "kode_bank": "bank_thebankoftokyo"
+    },
+    {
+        "nama_bank": "BANK SUMITOMO MITSUI INDONESIA",
+        "kode_bank": "bank_sumitomo"
+    },
+    {
+        "nama_bank": "BANK DBS INDONESIA",
+        "kode_bank": "bank_dbsindonesia"
+    },
+    {
+        "nama_bank": "BANK RESONA PERDANIA",
+        "kode_bank": "bank_resonaperdania"
+    },
+    {
+        "nama_bank": "BANK MIZUHO INDONESIA",
+        "kode_bank": "bank_mizuhoindonesia"
+    },
+    {
+        "nama_bank": "BANK ABN AMRO",
+        "kode_bank": "bank_abnamro"
+    },
+    {
+        "nama_bank": "BANK KEPPEL TATLEE BUANA",
+        "kode_bank": "bank_keppel"
+    },
+    {
+        "nama_bank": "BANK CAPITAL INDONESIA",
+        "kode_bank": "bank_capitalindonesia"
+    },
+    {
+        "nama_bank": "BANK BNP PARIBAS INDONESIA",
+        "kode_bank": "bank_bnpparibasindonesia"
+    },
+    {
+        "nama_bank": "KOREA EXCHANGE BANK DANAMON",
+        "kode_bank": "bank_koreaexchangedanamon"
+    },
+    {
+        "nama_bank": "DEUTSCHE BANK AG.",
+        "kode_bank": "bank_deutschebank"
+    },
+    {
+        "nama_bank": "BANK WOORI INDONESIA",
+        "kode_bank": "bank_wooriindonesia"
+    },
+    {
+        "nama_bank": "BANK BUMI ARTA",
+        "kode_bank": "bank_bumiarta"
+    },
+    {
+        "nama_bank": "BANK ANTARDAERAH",
+        "kode_bank": "bank_antardaerah"
+    },
+    {
+        "nama_bank": "BANK IFI",
+        "kode_bank": "bank_ifi"
+    },
+    {
+        "nama_bank": "BANK BCA SYARIAH",
+        "kode_bank": "bank_bcasyariah"
+    },
+    {
+        "nama_bank": "BANK LIPPO",
+        "kode_bank": "bank_lippo"
+    },
+    {
+        "nama_bank": "GOPAY USER",
+        "kode_bank": "gopay_user"
+    },
+    {
+        "nama_bank": "GOPAY DRIVER",
+        "kode_bank": "gopay_driver"
+    },
+    {
+        "nama_bank": "GRAB USER",
+        "kode_bank": "grab_user"
+    },
+    {
+        "nama_bank": "DANA",
+        "kode_bank": "wallet_dana"
+    },
+    {
+        "nama_bank": "OVO",
+        "kode_bank": "wallet_ovo"
+    },
+    {
+        "nama_bank": "LINK AJA",
+        "kode_bank": "wallet_linkaja"
+    },
+    {
+        "nama_bank": "SHOPEEPAY",
+        "kode_bank": "wallet_shopeepay"
+    },
+    {
+        "nama_bank": "I.SAKU",
+        "kode_bank": "wallet_isaku"
+    },
+    {
+        "nama_bank": "POST",
+        "kode_bank": "image (Base64)"
+    }
+]
