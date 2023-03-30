@@ -1,13 +1,13 @@
 import React from "react";
-import { Button, Row, Col, Container } from "react-bootstrap";
+import { Button, Row, Container, Col } from "react-bootstrap";
 
-const ButtonComponent = () => {
+const ButtonComponent = ({ handleSubmit }) => {
     return (
         <>
             <Container fluid>
                 <Row>
                     <Col md={12}>
-                        <Button variant="success" as="input" type="submit" value="Check" className="col-md-12" />
+                        <Button variant="success" as="input" type="submit" value="Check" className="col-md-12" onClick={(event) => handleSubmit(event)} />
                     </Col>
                 </Row>
             </Container>
